@@ -1,5 +1,0 @@
-services:
-  crawl4ai:
-    image: unclecode/crawl4ai:basic-amd64
-    ports:
-      - "11235:11235"
